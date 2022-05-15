@@ -16,3 +16,13 @@ choco -?
 run the powershell script in administrative powershell so the applications can install. After the installation has finished downloading, all your applications should be there. 
 
 Also, if you have trouble installing the script, you can use [this](https://techyguide360.com/easy-how-to-enable-running-scripts-in-windows-11/) tool to help with powershell. 
+
+-----------------------
+# Currently all applications that you can install:
+Epic Games
+Steam
+Spotify
+Google Chrome
+
+-----------------------
+
