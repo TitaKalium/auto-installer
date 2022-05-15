@@ -28,4 +28,7 @@ Spotify
 Google Chrome
 
 -----------------------
+# Credits
+
+Thank you so much to Thisisguillermo for helping me with making the powershell script. 
 
