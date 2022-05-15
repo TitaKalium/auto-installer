@@ -20,8 +20,11 @@ Also, if you have trouble installing the script, you can use [this](https://tech
 -----------------------
 # Currently all applications that you can install:
 Epic Games
+
 Steam
+
 Spotify
+
 Google Chrome
 
 -----------------------
